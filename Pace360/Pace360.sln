@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pace360", "Pace360.csproj", "{DA995639-D7F5-1F6E-13CC-5E0D3429E448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pace360.Editor", "Pace360.Editor.csproj", "{D758CFFA-54E0-A5C3-BBA9-C73CD36B5856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA995639-D7F5-1F6E-13CC-5E0D3429E448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA995639-D7F5-1F6E-13CC-5E0D3429E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA995639-D7F5-1F6E-13CC-5E0D3429E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA995639-D7F5-1F6E-13CC-5E0D3429E448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D758CFFA-54E0-A5C3-BBA9-C73CD36B5856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D758CFFA-54E0-A5C3-BBA9-C73CD36B5856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D758CFFA-54E0-A5C3-BBA9-C73CD36B5856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D758CFFA-54E0-A5C3-BBA9-C73CD36B5856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
